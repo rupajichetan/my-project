@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { namespaceHTML } from '@angular/core/src/render3';
+
 
 @Component({
   selector: 'app-hello',
