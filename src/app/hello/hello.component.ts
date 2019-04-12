@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HelloComponent implements OnInit {
 
-  names = ['Prashanth', 'sam'];
+  names = ['Prashanth', 'sam', 'DJ'];
   constructor() { }
 
   ngOnInit() {
